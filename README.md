@@ -1,16 +1,70 @@
-# React + Vite
+# 🍸 Velvet Pour
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Velvet Pour** is a smooth-scrolling, modern cocktail website built using **React**, **GSAP**, and **Tailwind CSS**.  
+The project focuses on delivering a premium user experience through fluid animations, elegant design, and seamless navigation.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:**  
+https://mojito-velvetpour.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Smooth scrolling and animations using **GSAP**
+- Modern, responsive UI with **Tailwind CSS**
+- Component-based architecture using **React**
+- Clean and minimal design with immersive transitions
+- Data-driven content using JSON format
+- Fully responsive across devices
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📄 Pages Included
+
+- **Home Page** – Brand introduction and hero section  
+- **About Us** – Story and identity of Velvet Pour  
+- **Art Page** – Creative and visual elements  
+- **Menu Page** – Cocktail menu display  
+- **Popular Cocktails Section** – Most loved and trending cocktails  
+- **Contact Page** – User interaction and communication  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **GSAP (GreenSock Animation Platform)**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+
+---
+
+## 📦 Data Management
+
+All website content is stored inside the  
+`content/index.js` file in **JSON format**, making the project scalable, organized, and easy to maintain.
+
+---
+
+## 🌐 Deployment
+
+This project is deployed on **Netlify** and is live at:  
+👉 https://mojito-velvetpour.netlify.app/
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+- Implementing smooth scrolling with GSAP
+- Creating animation-driven UIs
+- Structuring React components efficiently
+- Managing content using JSON
+- Building real-world, visually rich frontend projects
+
+---
+
+## 👤 Author
+
+**Kanishk Yadav**  
+Frontend Developer | React | GSAP | Tailwind CSS
